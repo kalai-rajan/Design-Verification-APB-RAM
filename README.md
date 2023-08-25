@@ -2,4 +2,4 @@
 
 
 
-(https://www.edaplayground.com/x/QWRn)[click here to execute the Testbench in EDAPlayground]
+[https://www.edaplayground.com/x/QWRn](click here to execute the Testbench in EDAPlayground)
